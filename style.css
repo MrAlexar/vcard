@@ -3,14 +3,13 @@
 		font-family: courier;
 		font-size: 3mm;
 	}
-	body.print
-		{
+	body.print {
 			width: 21.5cm;
 			height: 29.5cm;
 			border: 1px solid black;
 			margin: 0;
 			padding: 0;
-		}
+	}
 	section {
 		position: relative;
 		top: 0;
@@ -23,11 +22,10 @@
 		font-size: 1.5em;
 		margin-bottom: 10px;
 	}
-	body.print section
-		{
+	body.print section {
 			float: left;
-			margin: 1px;
-		}
+			margin-bottom: 0;
+	}
 	.x {
 		font-size: 5em;
 		position: absolute;
@@ -62,7 +60,7 @@
 	.smily {
 		font-size: 5em;
 		position: absolute;
-		top: 8mm;
+		top: 13mm;
 		left: 0mm;
 	}
 	.code {
