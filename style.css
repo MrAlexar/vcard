@@ -1,6 +1,7 @@
 	body {
 		text-align: center;
 		font-family: courier;
+		font-size: 3mm;
 	}
 	section {
 		position: relative;
@@ -8,20 +9,20 @@
 		left: 0;
 		margin: auto;
 		text-align: left;
-		width: 600px;
-		height: 300px;
+		width: 10.5cm;
+		height: 6.5cm;
 		border: 1px solid gray;
 		font-size: 1.5em;
 		margin-bottom: 10px;
 	}
 	.x {
-		font-size: 7em;
+		font-size: 5em;
 		position: absolute;
-		top: 0;
+		top: 12mm;
 		left: 10px;
 	}
 	.content {
-		padding-left: 220px;
+		padding-left: 3.3cm;
 	}
 	.content.social {
 		margin-top: 76px;
@@ -46,20 +47,20 @@
 		left: inherit;
 	}
 	.smily {
-		font-size: 6.1em;
+		font-size: 5em;
 		position: absolute;
-		top: 0;
-		left: 10px;
+		top: 8mm;
+		left: 0mm;
 	}
 	.code {
 		margin-top: 60px;
 	}
 	.row.row-bold {
-		padding-left: 220px;
+		padding-left: 40mm;
 		font-weight: bold;
 	}
 	.row {
-		padding-left: 250px;
+		padding-left: 50mm;
 		padding-bottom: 3px;
 		padding-top: 3px;
 		border-bottom: 1px solid #888888;
