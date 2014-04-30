@@ -1,5 +1,5 @@
 	<section>
-		<div class="smily">(:</div>
+		<div class="x">X?</div>
 		<div class="code">
 			<div class="row row-bold">
 				@media mobile first {

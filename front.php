@@ -1,5 +1,5 @@
 	<section>
-		<div class="x">X?</div>
+		<div class="smily">(:</div>
 		<div class="content social">
 			@alexarpen
 		</div>
