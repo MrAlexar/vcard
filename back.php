@@ -17,7 +17,7 @@
 				(nojQuery($){})(false);
 			</div>
 			<div class="row">
-				&lt;![CDATA[ .. ]]&gt;
+				&lt;![CDATA[ Semantic Web ]]&gt;
 			</div>
 			<div class="row">
 				sass --help
