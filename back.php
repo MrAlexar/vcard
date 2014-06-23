@@ -8,7 +8,7 @@
 				HOOK_drupal_alter
 			</div>
 			<div class="row">
-				&lt;?php $('developer');
+				&lt;?php `developer`;
 			</div>
 			<div class="row">
 				love@linux:~# _
