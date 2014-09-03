@@ -1,5 +1,7 @@
 	<section>
-		<div class="smily">(:</div>
+		<div class="qrcode">
+			<img src="qrcode.png" alt="QR Code" />
+		</div>
 		<div class="content social">
 			@alexarpen
 		</div>

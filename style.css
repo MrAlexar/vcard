@@ -57,11 +57,15 @@
 		right: 15px;
 		left: inherit;
 	}
-	.smily {
+	.qrcode {
 		font-size: 5em;
 		position: absolute;
-		top: 13mm;
-		left: 0mm;
+		top: 19mm;
+		left: 3mm;
+	}
+	.qrcode img {
+		width: 90px;
+		height: 90px;
 	}
 	.code {
 		margin-top: 60px;
@@ -77,3 +81,4 @@
 		border-bottom: 1px solid #888888;
 		font-size: 0.7em;
 	}
+
