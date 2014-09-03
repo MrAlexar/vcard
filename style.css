@@ -50,12 +50,13 @@
 		font-size: 0.8em;
 		position: absolute;
 		bottom: 5px;
-		left: 15px;
 		color: #333333;
+	}
+	.git, .copyright {
+		left: 15px;
 	}
 	.version {
 		right: 15px;
-		left: inherit;
 	}
 	.qrcode {
 		font-size: 5em;
@@ -81,4 +82,8 @@
 		border-bottom: 1px solid #888888;
 		font-size: 0.7em;
 	}
-
+	.smily {
+		text-align: center;
+		padding-top: 14mm;
+		font-size: 5em;
+	}
