@@ -3,7 +3,7 @@
 			<img src="qrcode.png" alt="QR Code" />
 		</div>
 		<div class="content social">
-			@alexarpen
+			@MrAlexar
 		</div>
 		<div class="content info">
 			<h1>Alexar Pendashteh</h1>
@@ -15,6 +15,6 @@
 			</div>
 		</div>
 		<div class="git">
-			$ git clone git@github.com:alexarpen/vcard.git
+			$ git clone git@github.com:mralexar/vcard.git
 		</div>
 	</section>
